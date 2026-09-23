@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#lista-produtos {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.card h2 {
+    margin-top: 0;
+}
+
+.categoria {
+    color: #666;
+}
+
+.preco {
+    font-size: 24px;
+    font-weight: bold;
+    color: #16803c;
+}
