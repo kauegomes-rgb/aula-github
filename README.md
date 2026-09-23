@@ -1,6 +1,6 @@
 # AULA GIT
 
-###todo
+### todo
 
 - aprender comandos git
 - entender o que é branch
